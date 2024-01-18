@@ -133,7 +133,7 @@ plot(item_quantity_count)
 
 #Items: 73, 78, 114, 225, 234, 401, 434, 469, 502, 589
 
-#item 73 in the chosen date (2019/04/01 -> 2019/04/30) : day 91 -> day 121
+#item 73 in the chosen date (2019/04/01 -> 2019/04/30) : day 91 -> day 120
 #Plot quantity vs time graph for item 73
 final_data_item_73 <- final_data %>% filter(item == 73)
 
